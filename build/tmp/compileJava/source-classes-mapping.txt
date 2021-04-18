@@ -1,0 +1,2 @@
+muriplz/kryeitdeathcoords/KryeitDeathCoords.java
+ muriplz.kryeitdeathcoords.KryeitDeathCoords
